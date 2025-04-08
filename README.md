@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @manumao
-- 👀 I’m interested in cryptocurrencies, productivity and nature.
-- 🌱 I’m currently learning about blockchain.
 - 📫 How to reach me at manuelmao94@gmail.com.
 
 <!---
